@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17683#The-Prairie-Farmer-Vol.-56-No.-2-January-12-1884A-Weekly-Journal-for-the-Farm-Orchard-and-Fir_
 gutenberg_bookshelf: Prairie Farmer
 gutenberg_issued: '2006-02-05'
 gutenberg_type: Text
