@@ -1,0 +1,30 @@
+_repo: The-Prairie-Farmer-Vol.-56-No.-2-January-12-1884A-Weekly-Journal-for-the-Farm-Orchard-and-Fir__17683
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: Prairie Farmer
+gutenberg_issued: '2006-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17683'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Farm life -- Periodicals'
+- !lcc 'S'
+- !lcsh 'United States -- Rural conditions -- Periodicals'
+- !lcsh 'Agriculture -- United States -- Periodicals'
+title: 'The Prairie Farmer, Vol. 56, No. 2, January 12, 1884
+
+  A Weekly Journal for the Farm, Orchard and Fireside'
+url: http://www.gutenberg.org/ebooks/17683
